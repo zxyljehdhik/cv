@@ -1,0 +1,29 @@
+/***********************tag selectors***********************/
+body{
+    background-color: #eaf6f6;
+    font-size: 100%
+  }
+  hr{
+    border-color: gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 4px;
+    width: 5%;
+  }
+h1,h2,h3{color:#66bfbf}
+
+/***********************Class selectors***********************/
+.Bad{
+  color: #cf1b1b;
+}
+.Average{
+  color: #fa7d09;
+}
+.Exceeds{
+  color: green;
+}
+/***********************ID selectors***********************/
+#myName{
+  color: Black;
+  font-size: 300%
+}
